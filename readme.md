@@ -1,6 +1,6 @@
 # 8-Bit CPU Brainfuck Interpreter
 BUT FIT INP 2024 project.
-Evaluation: not yet
+Evaluation: 14/23.
 
 This implementation doesn`t support tmp register and nested while loops,
 but everything else should work properly.
